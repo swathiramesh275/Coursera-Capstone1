@@ -1,6 +1,6 @@
 # Coursera-Capstone1
 
-<h1>Introduction</h1>
+<h2>Introduction</h2>
 
 <p>Road traffic injuries are currently estimated to be the eighth leading cause of death across all age groups globally, and are predicted to become the seventh leading cause of death by 2030.
 Road crashes are becoming a global health crisis and, as such, require comprehensive measures to prevent them, including a better understanding of the social impacts of road-related deaths and injuries.
@@ -12,3 +12,7 @@ These insights, could allow law enforcement bodies to allocate their resources m
 Governments should be highly interested in accurate predictions of the severity of an accident, in order to reduce the time of arrival and thus save a significant amount of people each year. Others interested could be private companies investing in technologies aiming to improve road safeness.
 
 This project consist of several parts divided in two different notebooks.</p>
+
+<h2>Feature selection</h2>
+
+<p>This notebook contains all the steps and transformations I performed for the feature selection. You can find the information on the raw data in the following kaggle page. The kaggle datasets contain an extended descriptions of different aspect of the accidents, thus I've selected the most relevant and useful data for my analysis.</p>
